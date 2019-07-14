@@ -30,6 +30,12 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 """
 
+"""
+Source:
+    https://github.com/guxd/DialogWAE
+    Xiaodong Gu, NAVER Clova AI
+"""
+
 import numpy as np
 import torch
 import torch.nn.functional as F
